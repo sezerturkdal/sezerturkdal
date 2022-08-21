@@ -24,12 +24,14 @@
 
 <img src="https://img.shields.io/badge/csharp-white.svg?style=for-the-badge&logo=csharp&logoColor=777BB4" alt="csharp"/>
 <img src="https://img.shields.io/badge/JavaScript-white.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" alt="javascript"/>
+<img src="https://img.shields.io/badge/.Net_Framework-white.svg?style=for-the-badge&logo=dotnet&logoColor=413bf5" alt="dotnet"/>
+<img src="https://img.shields.io/badge/.Net_Core-white.svg?style=for-the-badge&logo=dotnet&logoColor=413bf5" alt="dotnet"/>
 <br/>
 <img src="https://img.shields.io/badge/-Bootstrap-white?logo=bootstrap&logoColor=7952B3&style=for-the-badge" alt="bootstrap"/>
 <img src="https://img.shields.io/badge/-HTML-white?logo=html5&style=for-the-badge" alt="html5"/>
 <img src="https://img.shields.io/badge/-CSS-white?logo=css3&logoColor=1572B6&style=for-the-badge" alt="css3"/>
 <img src="https://img.shields.io/badge/-jquery-white?logo=jquery&logoColor=0769AD&style=for-the-badge" alt="jquery"/>
-<img src="https://img.shields.io/badge/.NET-white.svg?style=for-the-badge&logo=dotnet&logoColor=413bf5" alt="dotnet"/>
+
 <br/>
 <img src="https://img.shields.io/badge/Angular-white.svg?style=for-the-badge&logo=angular&logoColor=ed331f" alt="angular"/>
 <img src="https://img.shields.io/badge/React-white.svg?style=for-the-badge&logo=react&logoColor=1fdfed" alt="react"/>
@@ -48,10 +50,11 @@
 
 <h3>Database</h3>
 
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-white.svg?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=ed3b18" alt="sqlserver"/>
 <img src="https://img.shields.io/badge/oracle-white.svg?style=for-the-badge&logo=oracle&logoColor=e35a29" alt="oracle"/>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-mysql-white?logo=mysql&logoColor=4479A1&style=for-the-badge" alt="mysql"/></a>
-<a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/-mariadb-white?logo=mariadb&logoColor=003545&style=for-the-badge" alt="mariadb"/></a>
-<a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/-redis*-white?logo=redis&logoColor=DC382D&style=for-the-badge" alt="redis"/></a>
+<img src="https://img.shields.io/badge/SQLite-white.svg?style=for-the-badge&logo=sqlite&logoColor=5ba8f0" alt="sqlite"/>
+<img src="https://img.shields.io/badge/-redis*-white?logo=redis&logoColor=DC382D&style=for-the-badge" alt="redis"/>
+
 
 <h3>Version Control & CI/CD</h3>
 <img src="https://img.shields.io/badge/-git-white?logo=git&logoColor=F05032&style=for-the-badge" alt="git"/>
