@@ -9,8 +9,9 @@
 </ul>
 <div align="center">
 <h3>Contact Me :handshake:</h3>
-<a href="https://github.com/sezerturkdal" target="_blank"><img src="https://img.shields.io/badge/-Sezer_TÜRKDAL-black?logo=github&style=flat-square" alt="github"/></a>
 <a href="https://www.linkedin.com/in/sezerturkdal" target="_blank"><img src="https://img.shields.io/badge/-Sezer_TÜRKDAL-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
+<a href="https://github.com/sezerturkdal" target="_blank"><img src="https://img.shields.io/badge/-Sezer_TÜRKDAL-black?logo=github&style=flat-square" alt="github"/></a>
+<a href="https://twitter.com/sezerturkdal" target="_blank"><img src="https://img.shields.io/badge/-Sezer_TÜRKDAL-blue?logo=twitter&style=flat-square" alt="twitter"></a>
 <br/>
 </div>
 
