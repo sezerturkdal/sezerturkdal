@@ -61,6 +61,7 @@
 <img src="https://img.shields.io/badge/-git-white?logo=git&logoColor=F05032&style=for-the-badge" alt="git"/>
 <img src="https://img.shields.io/badge/-github-white?logo=github&logoColor=181717&style=for-the-badge" alt="github"/>
 <img src="https://img.shields.io/badge/-gitlab-white?logo=gitlab&logoColor=FCA121&style=for-the-badge" alt="gitlab"/>
+<img src="https://img.shields.io/badge/-Azure-white?logo=microsoftazure&logoColor=1a99ed&style=for-the-badge" alt="git"/>
 <img src="https://img.shields.io/badge/-bitbucket-white?logo=bitbucket&logoColor=0052CC&style=for-the-badge" alt="bitbucket"/>
 <img src="https://img.shields.io/badge/-docker-white?logo=docker&logoColor=2496ED&style=for-the-badge" alt="docker"/>
 
