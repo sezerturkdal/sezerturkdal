@@ -3,7 +3,7 @@
 
 <ul style="list-style: none;">
 <li>:seedling: I'm in constant learning (currently Swift)</li>
-<li>:house: From London, UK</li>
+<li>:house: From Istanbul, Turkey</li>
 <li>:rocket: I'm looking for new projects and work opportunities</li>
 <li>:briefcase: I'm currently working in LC Waikiki</li>
 </ul>
