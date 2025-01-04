@@ -1,17 +1,17 @@
-<h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Sezer TÜRKDAL<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
-<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Full Stack & Mobile Developer</h3>
+<h1 style="text-align: center;margin-bottom: 5px;">Hi there, I'm Sezer TURKDAL<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
+<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Full Stack & Mobile App Developer</h3>
 
 <ul style="list-style: none;">
-<li>:seedling: I'm in constant learning (currently Swift)</li>
-<li>:house: From Istanbul, Turkey</li>
-<li>:rocket: I'm looking for new projects and work opportunities</li>
+<li>:seedling: Currently expanding my technical skill set with a focus on IOS development.</li>
+<li>:house: Based in London, United Kingdom</li>
+<li>:rocket: Ready to take on new challenges and bring my technical experience to exciting projects.</li>
 <li>:briefcase: I'm currently working in LC Waikiki</li>
 </ul>
 <div align="center">
 <h3>Contact Me :handshake:</h3>
-<a href="https://www.linkedin.com/in/sezerturkdal" target="_blank"><img src="https://img.shields.io/badge/-Sezer_TÜRKDAL-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
-<a href="https://github.com/sezerturkdal" target="_blank"><img src="https://img.shields.io/badge/-Sezer_TÜRKDAL-black?logo=github&style=flat-square" alt="github"/></a>
-<a href="https://twitter.com/sezerturkdal" target="_blank"><img src="https://img.shields.io/badge/-Sezer_TÜRKDAL-blue?logo=twitter&style=flat-square" alt="twitter"></a>
+<a href="https://www.linkedin.com/in/sezerturkdal" target="_blank"><img src="https://img.shields.io/badge/-Sezer_TURKDAL-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
+<a href="https://github.com/sezerturkdal" target="_blank"><img src="https://img.shields.io/badge/-Sezer_TURKDAL-black?logo=github&style=flat-square" alt="github"/></a>
+<a href="https://twitter.com/sezerturkdal" target="_blank"><img src="https://img.shields.io/badge/-Sezer_TURKDAL-blue?logo=twitter&style=flat-square" alt="twitter"></a>
 <br/>
 </div>
 
