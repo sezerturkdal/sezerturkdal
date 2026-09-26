@@ -1,11 +1,10 @@
 <h1 style="text-align: center;margin-bottom: 5px;">Hi there, I'm Sezer TURKDAL<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
-<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Full Stack & Mobile App Developer</h3>
-
+<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Senior Full Stack Developer | .NET · React · SQL Server</h3>
 <ul style="list-style: none;">
-<li>:seedling: Currently expanding my technical skill set with a focus on IOS development.</li>
+<li>:briefcase: Building enterprise project management platforms for a US client</li>
+<li>:wrench: Working mostly with C#, ASP.NET Core, SQL Server and React</li>
+<li>:robot: Currently exploring LLM integration</li>
 <li>:house: Based in London, United Kingdom</li>
-<li>:rocket: Ready to take on new challenges and bring my technical experience to exciting projects.</li>
-<li>:briefcase: I'm currently working in LC Waikiki</li>
 </ul>
 <div align="center">
 <h3>Contact Me :handshake:</h3>
